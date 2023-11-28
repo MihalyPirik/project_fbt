@@ -20,8 +20,8 @@ SET time_zone = "+00:00";
 --
 -- Adatbázis: `book100`
 --
-CREATE DATABASE IF NOT EXISTS `14a_book100` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
-USE `14a_book100`;
+CREATE DATABASE IF NOT EXISTS `book100` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `book100`;
 
 -- --------------------------------------------------------
 
